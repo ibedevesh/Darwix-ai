@@ -4,7 +4,7 @@
  */
 
 (function() {
-  const ENDPOINT_URL = 'https://api.darwix.com/analyze'; // Replace with your actual backend endpoint
+  const ENDPOINT_URL = 'https://4e30d29a-fd0b-4c02-9d9c-35fa2ef631df-00-lhloidx6exa6.pike.replit.dev/'; // Replace with your actual backend endpoint
 
   async function captureDOM() {
     try {
